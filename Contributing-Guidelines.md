@@ -37,14 +37,14 @@ There are several ways you can contribute to Custos:
 
 Before contributing, you need to set up the project locally:
 
-1. Fork the repository from the [Custos GitHub](https://github.com/Custos-Diretriz/Custos-Dapp).
+1. Fork the repository from the [Custos GitHub](https://github.com/Custos-Diretriz/custos-starknet).
 2. Clone your fork to your local machine:
    ```bash
-   git clone https://github.com/your-username/Custos-Dapp.git
+   git clone https://github.com/your-username/custos-starknet.git
    ```
 3. Navigate to the project directory:
    ```bash
-   cd Custos-Dapp
+   cd custos-starknet
    ```
 4. Install project dependencies:
    ```bash
